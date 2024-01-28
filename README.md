@@ -27,8 +27,7 @@ To set up and run the project on your local machine, follow these steps:
    ```bash
    cd tictactoewebsocket
 
-2. **Build the project with Maven:
-**:
+2. **Build the project with Maven:**:
    ```bash
    mvn clean install
 
