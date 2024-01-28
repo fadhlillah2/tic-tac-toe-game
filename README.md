@@ -23,19 +23,19 @@ To run this project, you need to have the following installed:
 ## Installation and Setup
 To set up and run the project on your local machine, follow these steps:
 
-1. **Navigate to the project directory:**:
+1. **Navigate to the project directory:**
    ```bash
    cd tictactoewebsocket
 
-2. **Build the project with Maven:**:
+2. **Build the project with Maven:**
    ```bash
    mvn clean install
 
-3. **Testing the project with Mockito:**:
+3. **Testing the project with Mockito:**
    ```bash
    mvn test
 
-4. **Run the application:**:
+4. **Run the application:**
    ```bash
    mvn spring-boot:run
 
