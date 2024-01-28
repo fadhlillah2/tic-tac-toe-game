@@ -31,11 +31,15 @@ To set up and run the project on your local machine, follow these steps:
    ```bash
    mvn clean install
 
-3. **Run the application:**:
+3. **Testing the project with Mockito:**:
+   ```bash
+   mvn test
+
+4. **Run the application:**:
    ```bash
    mvn spring-boot:run
 
-4. **Access the application at http://localhost:8080 on your browser.**
+5. **Access the application at http://localhost:8080 on your browser.**
    
 ## How to Play
 To start a game, a player must visit the site and enter their name. This will create a new game and the player will become player 1. The game will then wait for another player to join.
