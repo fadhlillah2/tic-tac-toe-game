@@ -22,3 +22,13 @@ To run this project, you need to have the following installed:
 
 ## Installation and Setup
 To set up and run the project on your local machine, follow these steps:
+
+1. **Navigate to the project directory:**:
+   ```bash
+   cd tictactoewebsocket
+
+2. **Build the project with Maven:
+**:
+   ```bash
+   mvn clean install
+
