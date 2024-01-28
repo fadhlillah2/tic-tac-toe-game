@@ -31,3 +31,10 @@ To set up and run the project on your local machine, follow these steps:
    ```bash
    mvn clean install
 
+3. **Run the application:**:
+   ```bash
+   mvn spring-boot:run
+
+4. **Access the application at http://localhost:8080 on your browser.**:
+   
+
